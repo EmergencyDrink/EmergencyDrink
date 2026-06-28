@@ -1,37 +1,118 @@
-## Hola Soy Andy 👋
+# Hi there, I'm Andy 👋
 
-Soy Ingeniero de Sistemas - ITLA
-Soy desarrollador con sólida experiencia en la creación y optimización de APIs y arquitecturas cliente-servidor. 
-Me especializo en el uso de tecnologías como Node.js, IA y bases de datos como SQL Server y MongoDB
+## 💻 Software Developer | AI Enthusiast | ITLA Graduate
 
-🛠️ Tecnologías y Herramientas
-Lenguajes: JavaScript, C#, Python
-Frameworks: Node.js, .NET
-Bases de Datos: MongoDBL, SQL Server
-Herramientas: JIRA, Postman, Puppeteer
-Metodologías: SCRUM, MVC, Cliente-Servidor
-Otros: Diagramas Entidad-Relación, Modelo Relacional
+I'm a Software Development graduate from **Instituto Tecnológico de Las Américas (ITLA)** with a passion for building scalable applications, APIs, and AI-powered solutions.
 
-🚀 Proyecto Destacados
+I enjoy designing clean backend architectures, working with databases, and continuously learning modern web technologies.
 
-Aplicacion de deteccion de objetos usando YOLO
+---
 
-- Desarrollé una aplicación de detección de objetos utilizando el modelo de YOLO.
-- Creé una interfaz web interactiva con Streamlit para la carga de imágenes y la detección de objetos en tiempo real.
-- Procesé y visualicé los resultados de la detección mediante cuadros delimitadores y puntuaciones de confianza.
+## 🚀 About Me
 
-- Actualmetne Aprendiendo Typescrip + React 😄
-<!--
-**EmergencyDrink/EmergencyDrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Software Development Graduate from ITLA
+- 💻 Interested in Backend Development, Artificial Intelligence, and Full Stack Development
+- 🌱 Currently learning **TypeScript** and **React**
+- 📚 Always looking for opportunities to improve my skills and contribute to meaningful projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Languages
+
+- JavaScript
+- C#
+- Python
+- SQL
+
+### Frameworks & Technologies
+
+- Node.js
+- .NET
+- React (Learning)
+- TypeScript (Learning)
+- Streamlit
+
+### Databases
+
+- SQL Server
+- MongoDB
+
+### Tools
+
+- Git & GitHub
+- Postman
+- JIRA
+
+### Concepts
+
+- REST APIs
+- Client-Server Architecture
+- MVC
+- CRUD Applications
+- Entity Relationship Diagrams
+- Relational Database Design
+- Agile / Scrum
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 YOLO Object Detection Application
+
+An AI-powered object detection application built with **YOLO** and **Streamlit**.
+
+**Features**
+
+- Object detection using the YOLO model
+- Interactive web interface with Streamlit
+- Real-time image upload and detection
+- Bounding box visualization
+- Confidence score display
+
+---
+
+### 🏥 Medical Appointment Management System
+
+A desktop application built with **C#** and **SQL Server**.
+
+**Features**
+
+- CRUD operations
+- Appointment scheduling
+- Patient and doctor management
+- SQL Server integration
+
+---
+
+### 📦 Inventory Management System
+
+A Python application for managing inventory.
+
+**Features**
+
+- CRUD functionality
+- Product management
+- Data persistence
+- Simple and efficient interface
+
+---
+
+## 📈 Currently Learning
+
+- TypeScript
+- React
+- Modern Backend Development
+- Cloud Technologies
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: *(https://www.linkedin.com/in/andy-rodriguez-b328b6327/?locale=en)*
+
+
+---
+
+⭐ Thanks for visiting my profile!
